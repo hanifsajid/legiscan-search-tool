@@ -1,4 +1,4 @@
-# 📜 [LegiScan Search Tool](https://legiscan-search-tool.streamlit.app/)
+# 📜 [LegiScan Search Tool](https://legiscansearch.streamlit.app)
 
 A Streamlit web app that allows users to search, filter, and download U.S. legislative data via the [LegiScan API](https://legiscan.com/). Search across states and US Congress, filter by status, chamber, type, dates, and export results in CSV or JSON.
 
@@ -17,7 +17,7 @@ A Streamlit web app that allows users to search, filter, and download U.S. legis
 
 ## Live Demo
 
-You can run this app locally using Streamlit (instructions below) or [click here](https://legiscan-search-tool.streamlit.app/) to open it in your browser.
+You can run this app locally using Streamlit (instructions below) or [click here](https://legiscansearch.streamlit.app) to open it in your browser.
 
 ## Folder Structure
 
