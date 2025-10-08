@@ -38,7 +38,7 @@ legiscan-search-app/
 
 ```bash
 git clone https://github.com/hanifsajid/legiscan-search-tool.git
-cd legiscan-search-app
+cd legiscan-search-tool
 ```
 
 2. **Create a virtual environment (optional but recommended)**
